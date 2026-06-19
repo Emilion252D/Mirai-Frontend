@@ -1,0 +1,14 @@
+﻿# Flutter
+.dart_tool/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+pubspec.lock
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
